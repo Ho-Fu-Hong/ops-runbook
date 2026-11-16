@@ -19,3 +19,5 @@ Then restart the interface from the admin console and post a note in the shift l
 ## Escalation
 
 Call the on-call engineer if the queue is above 500 after a restart.
+
+Last update: 16:32 16/11/2026
